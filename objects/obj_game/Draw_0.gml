@@ -16,13 +16,12 @@ switch(room){
 		draw_text(
 			room_width/4, 200,
 			@"Score 1,000 points to win!
-			
-			UP: Move ship forward
-			LEFT/RIGHT: Change ship direction
-			SPACE: Fire the lazer!
-			
-			>> PRESS ENTER TO START <<
-			"
+UP: Move ship forward
+LEFT/RIGHT: Change ship direction
+SPACE: Fire the lazer!
+
+>> PRESS ENTER TO START <<
+"
 		);
 		break;
 	
