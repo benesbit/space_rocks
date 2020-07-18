@@ -178,7 +178,7 @@
             "Key": "b748d27f-d10d-4eac-990c-58ac85185ff6",
             "Value": {
                 "id": "e6d391c5-4c1f-4a56-829a-76fa093f8fd9",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
             }
         },
