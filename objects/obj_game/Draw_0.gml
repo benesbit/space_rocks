@@ -8,13 +8,13 @@ switch(room){
 		
 	case rm_start:
 		var c = c_yellow;
-		draw_text_ext_transformed_color(
-			room_width/2, 100, "SPACE ROCKS!",
-			0, 0, 3, 3,	0,
+		draw_text_transformed_color(
+			room_width/4, 100, "SPACE ROCKS!",
+			3, 3, 0,
 			c, c, c, c, 1
 		);
 		draw_text(
-			room_width/2, 200,
+			room_width/4, 200,
 			@"Score 1,000 points to win!
 			
 			UP: Move ship forward
