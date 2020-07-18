@@ -282,7 +282,7 @@
             "Key": "ff143733-efa7-414a-a179-9b261772599f",
             "Value": {
                 "id": "83eb2328-7dbd-40da-8e0e-bfaa3c43d1fc",
-                "resourcePath": "objects\\obj_room\\obj_room.yy",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
                 "resourceType": "GMObject"
             }
         }
