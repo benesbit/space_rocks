@@ -15,7 +15,7 @@ if(keyboard_check(vk_up)) {
 if(keyboard_check_pressed(vk_space)) {
 	var bullet_inst = instance_create_layer(x, y, "Instances", obj_bullet);
 	bullet_inst.direction = image_angle;
-	
+	audio_play_sound(laser_shot, 2, false);
 }
 
 if(speed > 5){

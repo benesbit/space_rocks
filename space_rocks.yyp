@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "41228b80-2f7d-48c6-b23e-40aed482ad68",
+            "Value": {
+                "id": "92308c0a-4cb5-454a-a363-ba189f8ff8e3",
+                "resourcePath": "sounds\\boom\\boom.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "432a4624-34b3-4291-9389-152195984b49",
             "Value": {
                 "id": "86bbde6a-9221-4eb9-b9e3-f39188e977be",
@@ -236,6 +244,14 @@
                 "id": "e6d391c5-4c1f-4a56-829a-76fa093f8fd9",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c04bb681-0346-4894-b8a1-aeb880dbcb3a",
+            "Value": {
+                "id": "ae7c914c-f4d5-48f4-9085-7806963a1a55",
+                "resourcePath": "sounds\\laser_shot\\laser_shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
