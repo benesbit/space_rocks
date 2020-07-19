@@ -2,6 +2,8 @@
 // You can write your code in this editor
 lives -= 1;
 
+audio_play_sound(boom, 2, false);
+
 with(obj_game){
 	alarm[1] = room_speed;
 }
