@@ -2,7 +2,7 @@
 // You can write your code in this editor
 score += 12;
 
-audio_play_sound(boom, 2, false);
+audio_play_sound(snd_boom, 2, false);
 
 instance_destroy();
 

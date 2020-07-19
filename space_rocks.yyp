@@ -90,7 +90,7 @@
             "Key": "41228b80-2f7d-48c6-b23e-40aed482ad68",
             "Value": {
                 "id": "92308c0a-4cb5-454a-a363-ba189f8ff8e3",
-                "resourcePath": "sounds\\boom\\boom.yy",
+                "resourcePath": "sounds\\snd_boom\\snd_boom.yy",
                 "resourceType": "GMSound"
             }
         },
