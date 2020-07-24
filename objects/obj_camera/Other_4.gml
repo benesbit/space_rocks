@@ -12,3 +12,5 @@ cameraHeight = 500;
 displayScale = 2;
 displayWidth = cameraWidth * displayScale;
 displayHeight = cameraHeight * displayScale;
+
+window_set_size(displayWidth, displayHeight);
