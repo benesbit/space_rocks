@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Create Asteroid
+
 if(room != rm_game){
 	exit;
 }
