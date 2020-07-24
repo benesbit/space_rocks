@@ -12,7 +12,7 @@ if(room == rm_game){
 	}
 	
 	// Create Asteroids
-	repeat(7){
+	repeat(10){
 		var xx = choose(
 			irandom_range(0, room_width*0.3),
 			irandom_range(room_width*0.7, room_width)
