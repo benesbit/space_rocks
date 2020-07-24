@@ -19,3 +19,5 @@ displayWidth = cameraWidth * displayScale;
 displayHeight = cameraHeight * displayScale;
 
 window_set_size(displayWidth, displayHeight);
+
+surface_resize(application_surface, displayWidth, displayHeight);
