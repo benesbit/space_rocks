@@ -1,4 +1,4 @@
-/// @description Ship Actions
+/// @description Ship Actions.
 
 if(keyboard_check(vk_left)) {
 	image_angle += 5;

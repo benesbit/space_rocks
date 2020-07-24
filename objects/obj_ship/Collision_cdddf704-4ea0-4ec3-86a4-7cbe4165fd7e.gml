@@ -1,4 +1,4 @@
-/// @description Ship Collision with Asteroid
+/// @description Ship Collision with Asteroid.
 
 lives -= 1;
 

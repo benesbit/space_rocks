@@ -1,4 +1,4 @@
-/// @description Asteroid "actions"
+/// @description Asteroid "actions".
 
 move_wrap(true, true, sprite_height/2);
 

@@ -1,4 +1,4 @@
-/// @description Asteroid creation details
+/// @description Asteroid starting traits.
 
 sprite_index = choose(
 	spr_asteroid_small,
