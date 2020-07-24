@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "acfd7ee8-d309-4faf-8f52-abfabb9c077f",
+            "Value": {
+                "id": "64ebf322-6ddd-4198-b863-fdd807fe84db",
+                "resourcePath": "sprites\\spr_background_stars\\spr_background_stars.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b220b793-c17e-49c3-82e2-3111b5db75ff",
             "Value": {
                 "id": "2751dafb-2235-47d6-bc55-718c04880eff",
