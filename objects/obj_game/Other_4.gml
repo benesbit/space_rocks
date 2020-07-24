@@ -24,5 +24,6 @@ if(room == rm_game){
 		instance_create_layer(xx, yy, "Instances", obj_asteroid);
 	}
 	
+	// Start Asteroid Spawn alarm after 60 frames
 	alarm[0] = 60;
 }
