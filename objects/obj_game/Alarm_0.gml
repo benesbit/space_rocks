@@ -1,4 +1,4 @@
-/// @description Create Asteroid
+/// @description Asteroid Spawn
 
 if(room != rm_game){
 	exit;
@@ -17,4 +17,5 @@ if(choose(false,true)){
 
 instance_create_layer(xx, yy, "Instances", obj_asteroid);
 
+// Spawn a new asteroid (alarm calls itself)
 alarm[0] = 4*room_speed;
