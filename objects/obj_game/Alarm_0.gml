@@ -4,6 +4,7 @@ if(room != rm_game){
 	exit;
 }
 
+// Randomly choose to spawn on horizontal or vertical spawn areas
 if(choose(false,true)){
 	// Go down the sides
 	var xx = choose(0, room_width);
