@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Ship Collision with Asteroid
+
 lives -= 1;
 
 audio_play_sound(snd_boom, 2, false);
