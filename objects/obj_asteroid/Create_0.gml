@@ -1,7 +1,7 @@
 /// @description Asteroid starting traits.
 
 sprite_index = choose(
-	spr_asteroid_small,
+	spr_asteroid_small_01,
 	spr_asteroid_medium,
 	spr_asteroid_huge
 );
