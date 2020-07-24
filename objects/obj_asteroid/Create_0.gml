@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Asteroid creation details
+
 sprite_index = choose(
 	spr_asteroid_small,
 	spr_asteroid_medium,

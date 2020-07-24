@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Asteroid "actions"
 
 move_wrap(true, true, sprite_height/2);
 
