@@ -1,1 +1,2 @@
-/// @description Camera follow player
+/// @description Follow target
+
