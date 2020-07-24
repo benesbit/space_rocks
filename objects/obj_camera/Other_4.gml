@@ -7,3 +7,6 @@ target = obj_ship;
 cameraWidth = 500;
 cameraHeight = 500;
 
+displayScale = 2;
+displayWidth = cameraWidth * displayScale;
+displayHeight = cameraHeight * displayScale;
