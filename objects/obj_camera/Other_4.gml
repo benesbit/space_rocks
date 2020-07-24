@@ -8,6 +8,11 @@ target = obj_ship;
 cameraWidth = 500;
 cameraHeight = 500;
 
+view_enabled = true;
+view_visible[0] = true;
+
+
+
 // Display
 displayScale = 2;
 displayWidth = cameraWidth * displayScale;
