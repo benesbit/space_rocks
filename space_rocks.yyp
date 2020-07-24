@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "ce4f6283-ff2d-4a23-bc82-3b3d0018a02d",
+            "Value": {
+                "id": "e660f7e2-2a28-4216-a1c7-529bbc4a661a",
+                "resourcePath": "sprites\\spr_asteroid_small_02\\spr_asteroid_small_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d6f96333-e405-472d-b539-9633bb17e8bd",
             "Value": {
                 "id": "48144a10-7943-4e49-adeb-a0e6513dde7a",
