@@ -9,7 +9,7 @@ if(keyboard_check(vk_right)) {
 }
 
 if(keyboard_check(vk_up)) {
-	motion_add(image_angle, 0.025);
+	motion_add(image_angle, 0.035);
 }
 
 if(keyboard_check_pressed(vk_space)) {
@@ -18,8 +18,8 @@ if(keyboard_check_pressed(vk_space)) {
 	audio_play_sound(laser_shot, 2, false);
 }
 
-if(speed > 5){
-	speed = 5;
+if(speed >= 4){
+	speed = 4;
 }
 
 move_wrap(true, true, sprite_height/2);
