@@ -1,11 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(room == rm_game){
-	
-	if(audio_is_playing(Background_Music)){
-		audio_stop_sound(Background_Music);
+
+//  This will reset the background audio when room starts
+//	if(audio_is_playing(Background_Music)){
+//		audio_stop_sound(Background_Music);
+//	}
+	if(!audio_is_playing(Background_Music)){
+		audio_play_sound(Background_Music, 3, true);
 	}
-	audio_play_sound(Background_Music, 3, true);
 	
 	repeat(7){
 		var xx = choose(
