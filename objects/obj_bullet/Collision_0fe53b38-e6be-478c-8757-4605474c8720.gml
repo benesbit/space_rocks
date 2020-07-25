@@ -13,9 +13,9 @@ with(other){
 		score += 4;
 		repeat(2) {
 			var new_asteroid = instance_create_layer(x, y, "Instances", obj_asteroid);
-			new_asteroid.sprite_index = spr_asteroid_medium;
+			new_asteroid.sprite_index = spr_asteroid_medium_01;
 		}
-	} else if(sprite_index == spr_asteroid_medium){
+	} else if(sprite_index == spr_asteroid_medium_01){
 		score += 6;
 		repeat(2) {
 			var new_asteroid = instance_create_layer(x, y, "Instances", obj_asteroid);

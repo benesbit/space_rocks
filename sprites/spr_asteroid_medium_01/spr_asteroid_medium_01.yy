@@ -2,7 +2,7 @@
     "id": "073aa98a-30b7-4568-a9ce-c52b529102da",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_asteroid_medium",
+    "name": "spr_asteroid_medium_01",
     "For3D": false,
     "HTile": false,
     "VTile": false,
