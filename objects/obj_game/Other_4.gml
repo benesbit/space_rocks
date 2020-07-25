@@ -13,20 +13,6 @@ if(room == rm_game){
 		audio_play_sound(snd_background_music, 3, true);
 	}
 
-/*
-	// Create Asteroids
-	repeat(10){
-		var xx = choose(
-			irandom_range(0, room_width*0.3),
-			irandom_range(room_width*0.7, room_width)
-		);
-		var yy = choose(
-			irandom_range(0, room_width*0.3),
-			irandom_range(room_width*0.7, room_width)
-		);
-		instance_create_layer(xx, yy, "Instances", obj_asteroid);
-	}
-*/
 	// Start Asteroid Spawn alarm after 60 frames
 	alarm[0] = 60;
 }
