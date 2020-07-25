@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "4ced978a-db3e-487d-b8e5-6f591f3b4e19",
+            "Value": {
+                "id": "77a5f649-2b30-4c9d-bcfe-9ff5401a25b8",
+                "resourcePath": "scripts\\destroy_asteroid\\destroy_asteroid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4e26fa14-993e-494b-a0ca-1be25a1bf653",
             "Value": {
                 "id": "3b70e0b3-46a9-4df6-881b-db07a6a37cca",
@@ -384,7 +392,8 @@
         }
     ],
     "script_order": [
-        "130173c5-61f4-49c6-9139-970a5dfdb0de"
+        "130173c5-61f4-49c6-9139-970a5dfdb0de",
+        "4ced978a-db3e-487d-b8e5-6f591f3b4e19"
     ],
     "tutorial": ""
 }
