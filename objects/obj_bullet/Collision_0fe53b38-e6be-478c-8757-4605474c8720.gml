@@ -6,6 +6,7 @@ audio_play_sound(snd_boom, 2, false);
 
 instance_destroy();
 
+// Asteroid distruction
 with(other){
 	instance_destroy();
 	
