@@ -1,10 +1,12 @@
 /// @description Game Room Start
 
 if(room == rm_game){
-//  This will reset the background audio when room starts
-//	if(audio_is_playing(snd_background_music)){
-//		audio_stop_sound(snd_background_music);
-//	}
+	spawn_off_camera(obj_asteroid, 15);
+	
+	//  This will reset the background audio when room starts
+	//	if(audio_is_playing(snd_background_music)){
+	//		audio_stop_sound(snd_background_music);
+	//	}
 
 	// If background music is not playing, start it!
 	if(!audio_is_playing(snd_background_music)){
