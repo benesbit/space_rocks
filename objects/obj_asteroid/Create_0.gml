@@ -3,7 +3,7 @@
 sprite_index = choose(
 	choose(spr_asteroid_small_01, spr_asteroid_small_02),
 	spr_asteroid_medium_01,
-	spr_asteroid_huge_01
+	choose(spr_asteroid_huge_01, spr_asteroid_huge_02)
 );
 
 direction = irandom_range(0, 359);
@@ -19,6 +19,7 @@ switch(sprite_index){
 		speed = random_range(0.90, 1.15);
 		break;
 	case spr_asteroid_huge_01:
+	case spr_asteroid_huge_02:
 		speed = random_range(0.50, 0.75);
 		break;
 }
