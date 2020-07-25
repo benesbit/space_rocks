@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "130173c5-61f4-49c6-9139-970a5dfdb0de",
+            "Value": {
+                "id": "e6a41436-d31b-4c7a-9dbd-9750dcd31b0c",
+                "resourcePath": "scripts\\spawn_off_camera\\spawn_off_camera.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "24b73894-88f8-4cc4-829a-b8a2c12f715e",
             "Value": {
                 "id": "763458ba-7210-4a62-bbdd-02d5bfe7deb5",
@@ -376,7 +384,7 @@
         }
     ],
     "script_order": [
-        
+        "130173c5-61f4-49c6-9139-970a5dfdb0de"
     ],
     "tutorial": ""
 }
