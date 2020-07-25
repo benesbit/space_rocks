@@ -12,7 +12,8 @@ if(room == rm_game){
 	if(!audio_is_playing(snd_background_music)){
 		audio_play_sound(snd_background_music, 3, true);
 	}
-	
+
+/*
 	// Create Asteroids
 	repeat(10){
 		var xx = choose(
@@ -25,7 +26,7 @@ if(room == rm_game){
 		);
 		instance_create_layer(xx, yy, "Instances", obj_asteroid);
 	}
-	
+*/
 	// Start Asteroid Spawn alarm after 60 frames
 	alarm[0] = 60;
 }

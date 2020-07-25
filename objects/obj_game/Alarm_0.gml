@@ -4,6 +4,7 @@ if(room != rm_game){
 	exit;
 }
 
+/*
 // Randomly choose to spawn on horizontal or vertical spawn areas
 if(choose(false,true)){
 	// Go down the sides
@@ -16,6 +17,9 @@ if(choose(false,true)){
 }
 
 instance_create_layer(xx, yy, "Instances", obj_asteroid);
+*/
+
+spawn_off_camera(obj_asteroid, 1);
 
 // Spawn a new asteroid (alarm calls itself)
-alarm[0] = 4*room_speed;
+alarm[0] = 1*room_speed;
