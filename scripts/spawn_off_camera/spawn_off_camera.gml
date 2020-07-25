@@ -27,5 +27,5 @@ repeat(num){
 	}
 	*/
 
-	instance_create_layer(xx, yy, "Insatnces", obj);
+	instance_create_layer(xx, yy, "Instances", obj);
 }
