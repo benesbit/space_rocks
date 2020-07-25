@@ -1,14 +1,14 @@
 /// @description Game Room Start
 
 if(room == rm_game){
-
 //  This will reset the background audio when room starts
-//	if(audio_is_playing(Background_Music)){
-//		audio_stop_sound(Background_Music);
+//	if(audio_is_playing(snd_background_music)){
+//		audio_stop_sound(snd_background_music);
 //	}
+
 	// If background music is not playing, start it!
-	if(!audio_is_playing(Background_Music)){
-		audio_play_sound(Background_Music, 3, true);
+	if(!audio_is_playing(snd_background_music)){
+		audio_play_sound(snd_background_music, 3, true);
 	}
 	
 	// Create Asteroids

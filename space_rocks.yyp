@@ -266,7 +266,7 @@
             "Key": "c04bb681-0346-4894-b8a1-aeb880dbcb3a",
             "Value": {
                 "id": "ae7c914c-f4d5-48f4-9085-7806963a1a55",
-                "resourcePath": "sounds\\laser_shot\\laser_shot.yy",
+                "resourcePath": "sounds\\snd_laser_shot\\snd_laser_shot.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "e75aa97c-9dc1-433b-a112-b0d49995e9a8",
             "Value": {
                 "id": "3ce11f28-02c4-4985-a3a4-6a3b1b5fd8d8",
-                "resourcePath": "sounds\\Background_Music\\Background_Music.yy",
+                "resourcePath": "sounds\\snd_background_music\\snd_background_music.yy",
                 "resourceType": "GMSound"
             }
         },
