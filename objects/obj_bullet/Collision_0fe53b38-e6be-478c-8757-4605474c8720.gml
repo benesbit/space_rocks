@@ -9,7 +9,7 @@ instance_destroy();
 with(other){
 	instance_destroy();
 	
-	if(sprite_index == spr_asteroid_huge){
+	if(sprite_index == spr_asteroid_huge_01){
 		score += 4;
 		repeat(2) {
 			var new_asteroid = instance_create_layer(x, y, "Instances", obj_asteroid);
