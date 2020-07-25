@@ -2,7 +2,7 @@
     "id": "d7357683-f851-4645-825d-bd9aecefb1cf",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_asteroid_huge",
+    "name": "spr_asteroid_huge_01",
     "For3D": false,
     "HTile": false,
     "VTile": false,
